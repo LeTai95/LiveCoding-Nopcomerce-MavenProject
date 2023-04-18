@@ -1,0 +1,221 @@
+ [2023-04-18 13:50:34,372] Pre-Conditon - Step_01: Open browser and login to Admin page
+ [2023-04-18 13:50:45,707] Admin_01 - Step_01: Click to 'Catalog' menu
+ [2023-04-18 13:50:45,859] Admin_01 - Step_02: Click to 'Products' in 'Catalog' menu
+ [2023-04-18 13:50:51,535] Admin_01 - Step_03: Enter to 'Product name' textbox
+ [2023-04-18 13:50:51,774] Admin_01 - Step_04: Click to 'Search' button
+ [2023-04-18 13:50:55,137] Admin_01 - Step_05: Verify 'Product name' is equals 'Lenovo IdeaCentre 600 All-in-One PC'
+ [2023-04-18 13:50:55,242] Admin_01 - Step_06: Verify 'SKU' is equals 'LE_IC_600'
+ [2023-04-18 13:50:55,323] Admin_01 - Step_07: Verify 'Price' is equals '500'
+ [2023-04-18 13:50:55,424] Admin_01 - Step_08: Verify 'Stock quantity' is equals '10000'
+ [2023-04-18 13:50:55,526] Admin_01 - Step_09: Verify 'Published icon' is displayed
+ [2023-04-18 13:50:55,661] Admin_02 - Step_01: Click to 'Products' in 'Catalog' menu
+ [2023-04-18 13:50:57,412] Admin_02 - Step_02: Enter to 'Product name' textbox
+ [2023-04-18 13:50:57,570] Admin_02 - Step_03: Select 'Computers' in 'Catagory' dropdown
+ [2023-04-18 13:50:58,014] Admin_02 - Step_04: Click to 'Search' button
+ [2023-04-18 13:51:01,329] Admin_02 - Step_05: Verify 'No data available in table' message is displayed
+ [2023-04-18 13:51:01,440] Admin_03 - Step_01: Click to 'Products' in 'Catalog' menu
+ [2023-04-18 13:51:03,245] Admin_03 - Step_02: Enter to 'Product name' textbox
+ [2023-04-18 13:51:03,439] Admin_03 - Step_03: Select 'Computers' in 'Catagory' dropdown
+ [2023-04-18 13:51:03,812] Admin_03 - Step_04: Check to 'Search subcategories' checkbox
+ [2023-04-18 13:51:04,129] Admin_03 - Step_05: Click to 'Search' button
+ [2023-04-18 13:51:07,429] Admin_03 - Step_06: Verify 'Product name' is equals 'Lenovo IdeaCentre 600 All-in-One PC'
+ [2023-04-18 13:51:07,540] Admin_04 - Step_01: Click to 'Products' in 'Catalog' menu
+ [2023-04-18 13:51:09,260] Admin_04 - Step_02: Enter to 'Product name' textbox
+ [2023-04-18 13:51:09,431] Admin_04 - Step_03: Select 'Computers >> Desktops' in 'Catagory' dropdown
+ [2023-04-18 13:51:09,825] Admin_04 - Step_04: Click to 'Search' button
+ [2023-04-18 13:51:13,145] Admin_04 - Step_05: Verify 'Product name' is equals 'Lenovo IdeaCentre 600 All-in-One PC'
+ [2023-04-18 13:51:13,244] Admin_05 - Step_01: Click to 'Products' in 'Catalog' menu
+ [2023-04-18 13:51:14,907] Admin_05 - Step_02: Enter to 'Product name' textbox
+ [2023-04-18 13:51:15,069] Admin_05 - Step_03: Select 'All' in 'Catagory' dropdown
+ [2023-04-18 13:51:15,185] Admin_05 - Step_04: Select 'Apple' in 'Manufacturer' dropdown
+ [2023-04-18 13:51:15,553] Admin_05 - Step_05: Click to 'Search' button
+ [2023-04-18 13:51:18,872] Admin_05 - Step_06: Verify 'No data available in table' message is displayed
+ [2023-04-18 13:51:18,973] Admin_06 - Step_01: Click to 'Products' in 'Catalog' menu
+ [2023-04-18 13:51:20,542] Admin_06 - Step_02: Enter to 'Go directly to product SKU' textbox
+ [2023-04-18 13:51:20,703] Admin_06 - Step_03: Click to 'Go' button
+ [2023-04-18 13:51:24,896] Admin_06 - Step_04: Verify 'Product name' is 'Lenovo IdeaCentre 600 All-in-One PC'
+ [2023-04-18 13:51:25,099] Admin_06 - Step_05: Switch to 'Product Info Description' iframe
+ [2023-04-18 13:51:29,040] Admin_06 - Step_06: Verify 'Lenovo IdeaCentre 600 All-in-One PC' infomation
+ [2023-04-18 13:51:29,327] Admin_06 - Step_07: Switch to Default content
+ [2023-04-18 13:51:29,338] Admin_07 - Step_01: Click to 'Customers' menu
+ [2023-04-18 13:51:29,450] Admin_07 - Step_02: Click to 'Customers' in 'Customers' menu
+ [2023-04-18 13:51:31,521] Admin_07 - Step_03: Click to 'Add new' button
+ [2023-04-18 13:51:31,617] Admin_07 - Step_04: Enter to 'Email' textbox with value is 'automationfc34368@gmail.com'
+ [2023-04-18 13:51:33,119] Admin_07 - Step_05: Enter to 'Password' textbox with value is '123456'
+ [2023-04-18 13:51:34,253] Admin_07 - Step_06: Enter to 'First name' textbox with value is 'Automation'
+ [2023-04-18 13:51:35,467] Admin_07 - Step_07: Enter to 'Last name' textbox with value is 'FC'
+ [2023-04-18 13:51:36,624] Admin_07 - Step_08: Check to 'Male' in Gender radio
+ [2023-04-18 13:51:37,025] Admin_07 - Step_09: Enter to 'Data of birth' with value is '1/1/2020'
+ [2023-04-18 13:51:38,144] Admin_07 - Step_10: Enter to 'Company name' with value is 'AutomationFC'
+ [2023-04-18 13:51:39,274] Admin_07 - Step_11: Clear item 'Registered' in 'Customer roles' dropdown
+ [2023-04-18 13:51:40,607] Admin_07 - Step_12: Select 'Guests' in 'Customer roles' dropdown
+ [2023-04-18 13:51:43,262] Admin_07 - Step_13: Check to 'Active' checkbox
+ [2023-04-18 13:51:43,318] Admin_07 - Step_14: Enter to 'Admin comment' textbox with value is 'Add new customer (Guest)'
+ [2023-04-18 13:51:43,456] Admin_07 - Step_15: Click to 'Save and Continue Edit' button
+ [2023-04-18 13:51:44,538] Admin_07 - Step_16: Verify 'New customer has been added successfully' message is displayed
+ [2023-04-18 13:51:44,757] Admin_07 - Step_17: Verify 'Email' value is 'automationfc34368@gmail.com'
+ [2023-04-18 13:51:44,966] Admin_07 - Step_18: Verify 'First name' value is 'Automation'
+ [2023-04-18 13:51:45,107] Admin_07 - Step_19: Verify 'Last name' value is 'FC'
+ [2023-04-18 13:51:45,212] Admin_07 - Step_20: Verify 'Male' radio button is checked
+ [2023-04-18 13:51:45,290] Admin_07 - Step_21: Verify 'Data of birth' value is '1/1/2020'
+ [2023-04-18 13:51:45,386] Admin_07 - Step_22: Verify 'Company name' value is 'AutomationFC'
+ [2023-04-18 13:51:45,443] Admin_07 - Step_23: Verify 'Guests' is selected in 'Customer roles' dropdown
+ [2023-04-18 13:51:45,539] Admin_07 - Step_24: Verify 'Active' checkbox is checked
+ [2023-04-18 13:51:45,616] Admin_07 - Step_25: Verify 'Admin comment' value is 'Add new customer (Guest)'
+ [2023-04-18 13:51:45,666] Admin_07 - Step_26: Click to 'back to customer list' link
+ [2023-04-18 13:51:46,249] Admin_07 - Step_27: Delete 'Registered' in 'Customer role' dropdown
+ [2023-04-18 13:51:46,442] Admin_07 - Step_28: Select 'Guests' in 'Customer role' dropdown
+ [2023-04-18 13:51:49,519] Admin_07 - Step_29: Click to 'Search' button
+ [2023-04-18 13:51:50,850] Admin_07 - Step_30: Verify Customer Info is displayed
+ [2023-04-18 13:51:50,968] Admin_08 - Step_01: Click to 'Customers' in 'Customers' menu
+ [2023-04-18 13:51:52,666] Admin_08 - Step_02: Enter to 'Email' textbox with value is 'automationfc34368@gmail.com'
+ [2023-04-18 13:51:53,831] Admin_08 - Step_03: Clear item 'Registered' in 'Customer roles' dropdown
+ [2023-04-18 13:51:53,921] Admin_08 - Step_04: Select 'Guests' in 'Customer roles' dropdown
+ [2023-04-18 13:51:56,544] Admin_08 - Step_05: Click to 'Search' button
+ [2023-04-18 13:51:57,891] Admin_09 - Step_06: Verify Customer Info is displayed
+ [2023-04-18 13:51:57,990] Admin_09 - Step_01: Click to 'Customers' in 'Customers' menu
+ [2023-04-18 13:51:59,621] Admin_09 - Step_02: Enter to 'Firstname' textbox with value is 'Automation'
+ [2023-04-18 13:52:00,751] Admin_09 - Step_03: Enter to 'Lastname' textbox with value is 'FC'
+ [2023-04-18 13:52:01,882] Admin_09 - Step_04: Clear item 'Registered' in 'Customer roles' dropdown
+ [2023-04-18 13:52:01,973] Admin_09 - Step_05: Select 'Guests' in 'Customer roles' dropdown
+ [2023-04-18 13:52:04,573] Admin_09 - Step_06: Click to 'Search' button
+ [2023-04-18 13:52:05,898] Admin_10 - Step_07: Verify Customer Info is displayed
+ [2023-04-18 13:52:05,974] Admin_10 - Step_01: Click to 'Customers' in 'Customers' menu
+ [2023-04-18 13:52:07,610] Admin_10 - Step_02: Enter to 'Company' textbox with value is 'AutomationFC'
+ [2023-04-18 13:52:08,768] Admin_10 - Step_03: Clear item 'Registered' in 'Customer roles' dropdown
+ [2023-04-18 13:52:08,855] Admin_10 - Step_04: Select 'Guests' in 'Customer roles' dropdown
+ [2023-04-18 13:52:11,455] Admin_10 - Step_05: Click to 'Search' button
+ [2023-04-18 13:52:12,747] Admin_10 - Step_06: Verify Customer Info is displayed
+ [2023-04-18 13:52:12,839] Admin_11 - Step_01: Click to 'Customers' in 'Customers' menu
+ [2023-04-18 13:52:14,707] Admin_11 - Step_02: Enter to 'Email' textbox with value is 'automationfc34368@gmail.com'
+ [2023-04-18 13:52:15,845] Admin_11 - Step_03: Enter to 'Firstname' textbox with value is 'Automation'
+ [2023-04-18 13:52:16,980] Admin_11 - Step_04: Enter to 'Lastname' textbox with value is 'FC'
+ [2023-04-18 13:52:18,122] Admin_11 - Step_05: Select '1' in 'Month' dropdown
+ [2023-04-18 13:52:18,474] Admin_11 - Step_06: Select '1' in 'Day' dropdown
+ [2023-04-18 13:52:18,780] Admin_11 - Step_07: Enter to 'Company' textbox with value is 'AutomationFC'
+ [2023-04-18 13:52:19,917] Admin_11 - Step_08: Clear item 'Registered' in 'Customer roles' dropdown
+ [2023-04-18 13:52:20,007] Admin_11 - Step_09: Select 'Guests' in 'Customer roles' dropdown
+ [2023-04-18 13:52:22,611] Admin_11 - Step_10: Click to 'Search' button
+ [2023-04-18 13:52:23,931] Admin_11 - Step_11: Verify Customer Info is displayed
+ [2023-04-18 13:52:24,009] Admin_12 - Step_01: Click to 'Customers' in 'Customers' menu
+ [2023-04-18 13:52:25,681] Admin_12 - Step_02: Enter to 'Email' textbox with value is 'automationfc34368@gmail.com'
+ [2023-04-18 13:52:26,828] Admin_12 - Step_03: Enter to 'Firstname' textbox with value is 'Automation'
+ [2023-04-18 13:52:27,995] Admin_12 - Step_04: Enter to 'Lastname' textbox with value is 'FC'
+ [2023-04-18 13:52:29,160] Admin_12 - Step_05: Select '1' in 'Month' dropdown
+ [2023-04-18 13:52:29,515] Admin_12 - Step_06: Select '1' in 'Day' dropdown
+ [2023-04-18 13:52:29,840] Admin_12 - Step_07: Enter to 'Company' textbox with value is 'AutomationFC'
+ [2023-04-18 13:52:30,969] Admin_12 - Step_08: Clear item 'Registered' in 'Customer roles' dropdown
+ [2023-04-18 13:52:31,083] Admin_12 - Step_09: Select 'Guests' in 'Customer roles' dropdown
+ [2023-04-18 13:52:33,710] Admin_12 - Step_10: Click to 'Search' button
+ [2023-04-18 13:52:35,038] Admin_12 - Step_11: Click to 'Edit' button
+ [2023-04-18 13:52:36,728] Admin_12 - Step_12: Enter to 'Email' textbox with value is 'edit_automationfc34372@gmail.com'
+ [2023-04-18 13:52:37,881] Admin_12 - Step_13: Enter to 'First name' textbox with value is 'Edit Automation'
+ [2023-04-18 13:52:39,033] Admin_12 - Step_14: Enter to 'Last name' textbox with value is 'Edit FC'
+ [2023-04-18 13:52:40,193] Admin_12 - Step_15: Enter to 'Date of birth' textbox with value is '2/2/2020'
+ [2023-04-18 13:52:41,332] Admin_12 - Step_16: Enter to 'Company name' textbox with value is 'Edit AutomationFC'
+ [2023-04-18 13:52:42,488] Admin_12 - Step_17: Enter to 'Admin comment' textbox with value is 'Edit Add new customer (Guest)'
+ [2023-04-18 13:52:42,637] Admin_12 - Step_18: Click to 'Save' button
+ [2023-04-18 13:52:43,573] Admin_12 - Step_19: Verify 'The customer has been updated successfully' message is displayed
+ [2023-04-18 13:52:43,732] Admin_12 - Step_20: Click to 'Customers' in 'Customers' menu
+ [2023-04-18 13:52:45,543] Admin_12 - Step_21: Enter to 'Email' textbox with value is 'edit_automationfc34372@gmail.com'
+ [2023-04-18 13:52:46,706] Admin_12 - Step_22: Enter to 'Firstname' textbox with value is 'Edit Automation'
+ [2023-04-18 13:52:47,878] Admin_12 - Step_23: Enter to 'Lastname' textbox with value is 'Edit FC'
+ [2023-04-18 13:52:48,991] Admin_12 - Step_24: Select '2' in 'Month' dropdown
+ [2023-04-18 13:52:49,344] Admin_12 - Step_25: Select '2' in 'Day' dropdown
+ [2023-04-18 13:52:49,672] Admin_12 - Step_26: Enter to 'Company' textbox with value is 'Edit AutomationFC'
+ [2023-04-18 13:52:50,833] Admin_12 - Step_27: Clear item 'Registered' in 'Customer roles' dropdown
+ [2023-04-18 13:52:50,946] Admin_12 - Step_28: Select 'Guests' in 'Customer roles' dropdown
+ [2023-04-18 13:52:53,582] Admin_12 - Step_29: Click to 'Search' button
+ [2023-04-18 13:52:54,918] Admin_12 - Step_30: Verify 'Edit Automation Edit FC' is displayed in Customer Info
+ [2023-04-18 13:52:55,011] Admin_12 - Step_31: Verify 'Edit AutomationFC' is displayed in Customer Info
+ [2023-04-18 13:52:55,075] Admin_13 - Step_01: Click to 'Customers' in 'Customers' menu
+ [2023-04-18 13:52:56,765] Admin_13 - Step_02: Enter to 'Email' textbox with value is 'edit_automationfc34372@gmail.com'
+ [2023-04-18 13:52:57,937] Admin_13 - Step_03: Enter to 'Firstname' textbox with value is 'Edit Automation'
+ [2023-04-18 13:52:59,073] Admin_13 - Step_04: Enter to 'Lastname' textbox with value is 'Edit FC'
+ [2023-04-18 13:53:00,217] Admin_13 - Step_05: Select '2' in 'Month' dropdown
+ [2023-04-18 13:53:00,573] Admin_13 - Step_06: Select '2' in 'Day' dropdown
+ [2023-04-18 13:53:00,901] Admin_13 - Step_07: Enter to 'Company' textbox with value is 'Edit AutomationFC'
+ [2023-04-18 13:53:02,026] Admin_13 - Step_08: Clear item 'Registered' in 'Customer roles' dropdown
+ [2023-04-18 13:53:02,141] Admin_13 - Step_09: Select 'Guests' in 'Customer roles' dropdown
+ [2023-04-18 13:53:04,770] Admin_13 - Step_10: Click to 'Search' button
+ [2023-04-18 13:53:06,085] Admin_13 - Step_11: Click to 'Edit' button
+ [2023-04-18 13:53:07,791] Admin_13 - Step_12: Click to 'Add new address' button
+ [2023-04-18 13:53:10,757] Admin_13 - Step_13: Enter to 'First name' textbox with value is'Automation'
+ [2023-04-18 13:53:11,893] Admin_13 - Step_14: Enter to 'Last name' textbox with value is'FC'
+ [2023-04-18 13:53:13,017] Admin_13 - Step_15: Enter to 'Email' textbox with value is'automationfc@gmail.com'
+ [2023-04-18 13:53:14,160] Admin_13 - Step_16: Enter to 'Company' textbox with value is'Automation FC'
+ [2023-04-18 13:53:15,303] Admin_13 - Step_17: Select 'Viet Nam'in 'Country' dropdown
+ [2023-04-18 13:53:15,632] Admin_13 - Step_18: Select 'Other'in 'State / province' dropdown
+ [2023-04-18 13:53:15,754] Admin_13 - Step_19: Enter to 'County / region' textbox with value is'Viet Nam'
+ [2023-04-18 13:53:16,867] Admin_13 - Step_20: Enter to 'City' textbox with value is'Ho Chi Minh'
+ [2023-04-18 13:53:18,000] Admin_13 - Step_21: Enter to 'Address 1' textbox with value is'743 Le Loi'
+ [2023-04-18 13:53:19,155] Admin_13 - Step_22: Enter to 'Address 2' textbox with value is'453 Le Lai'
+ [2023-04-18 13:53:20,301] Admin_13 - Step_23: Enter to 'Zip / postal code' textbox with value is'650000'
+ [2023-04-18 13:53:21,426] Admin_13 - Step_24: Enter to 'Phone number' textbox with value is'0987654555'
+ [2023-04-18 13:53:22,561] Admin_13 - Step_25: Enter to 'Fax number' textbox with value is'+84987654555'
+ [2023-04-18 13:53:23,750] Admin_13 - Step_26: Click to 'Save' button
+ [2023-04-18 13:53:25,414] Admin_13 - Step_27: Verify 'The new address has been added successfully' is displayed
+ [2023-04-18 13:53:25,535] Admin_13 - Step_28: Verify 'First name' textbox value is equals 'Automation'
+ [2023-04-18 13:53:25,891] Admin_14 - Step_01: Click to 'Customers' in 'Customers' menu
+ [2023-04-18 13:53:27,582] Admin_14 - Step_02: Enter to 'Email' textbox with value is 'edit_automationfc34372@gmail.com'
+ [2023-04-18 13:53:28,712] Admin_14 - Step_03: Enter to 'Firstname' textbox with value is 'Edit Automation'
+ [2023-04-18 13:53:29,851] Admin_14 - Step_04: Enter to 'Lastname' textbox with value is 'Edit FC'
+ [2023-04-18 13:53:30,976] Admin_14 - Step_05: Select '2' in 'Month' dropdown
+ [2023-04-18 13:53:31,306] Admin_14 - Step_06: Select '2' in 'Day' dropdown
+ [2023-04-18 13:53:31,648] Admin_14 - Step_07: Enter to 'Company' textbox with value is 'Edit AutomationFC'
+ [2023-04-18 13:53:32,797] Admin_14 - Step_08: Clear item 'Registered' in 'Customer roles' dropdown
+ [2023-04-18 13:53:32,870] Admin_14 - Step_09: Select 'Guests' in 'Customer roles' dropdown
+ [2023-04-18 13:53:35,439] Admin_14 - Step_10: Click to 'Search' button
+ [2023-04-18 13:53:36,760] Admin_14 - Step_11: Click to 'Edit' button
+ [2023-04-18 13:53:38,472] Admin_14 - Step_12: Click to 'Edit' button in 'Address'
+ [2023-04-18 13:53:38,656] Admin_14 - Step_13: Enter to 'First name' textbox with value is 'Edit Automation'
+ [2023-04-18 13:53:40,116] Admin_14 - Step_14: Enter to 'Last name' textbox with value is 'Edit FC'
+ [2023-04-18 13:53:41,321] Admin_14 - Step_15: Enter to 'Email' textbox with value is 'editautomationfc@gmail.com'
+ [2023-04-18 13:53:42,500] Admin_14 - Step_16: Enter to 'Company' textbox with value is 'Edit Automation FC'
+ [2023-04-18 13:53:43,649] Admin_14 - Step_17: Select 'United States'in 'Country' dropdown
+ [2023-04-18 13:53:45,033] Admin_14 - Step_18: Select 'California'in 'State / province' dropdown
+ [2023-04-18 13:53:46,404] Admin_14 - Step_19: Enter to 'County / region' textbox with value is'United States'
+ [2023-04-18 13:53:47,557] Admin_14 - Step_20: Enter to 'City' textbox with value is'Albany'
+ [2023-04-18 13:53:48,707] Admin_14 - Step_21: Enter to 'Address 1' textbox with value is'123 PO Box'
+ [2023-04-18 13:53:49,860] Admin_14 - Step_22: Enter to 'Address 2' textbox with value is'356 Los Bancos'
+ [2023-04-18 13:53:51,038] Admin_14 - Step_23: Enter to 'Zip / postal code' textbox with value is'986589'
+ [2023-04-18 13:53:52,213] Admin_14 - Step_24: Enter to 'Phone number' textbox with value is'0987654666'
+ [2023-04-18 13:53:53,465] Admin_14 - Step_25: Enter to 'Fax number' textbox with value is'+84987654666'
+ [2023-04-18 13:53:54,654] Admin_14 - Step_26: Click to 'Save' button
+ [2023-04-18 13:53:55,802] Admin_14 - Step_27: Verify 'The address has been updated successfully' message is displayed
+ [2023-04-18 13:53:55,958] Admin_14 - Step_28: Verify 'First name' textbox value is equals 'Edit Automation'
+ [2023-04-18 13:53:56,039] Admin_14 - Step_29: Verify 'Last name' textbox value is equals 'Edit FC'
+ [2023-04-18 13:53:56,129] Admin_14 - Step_30: Verify 'Email' textbox value is equals 'editautomationfc@gmail.com'
+ [2023-04-18 13:53:56,242] Admin_14 - Step_31: Verify 'Company' textbox value is equals 'Edit Automation FC'
+ [2023-04-18 13:53:56,306] Admin_14 - Step_32: Verify 'United States'is selected in 'Country' dropdown
+ [2023-04-18 13:53:56,460] Admin_14 - Step_33: Verify 'California'is selected in 'State / province' dropdown
+ [2023-04-18 13:53:56,697] Admin_14 - Step_34: Verify 'County / region' textbox value is equals 'United States'
+ [2023-04-18 13:53:56,760] Admin_14 - Step_35: Verify 'City' textbox value is equals 'Albany'
+ [2023-04-18 13:53:56,828] Admin_14 - Step_36: Verify 'Address 1' textbox value is equals '123 PO Box'
+ [2023-04-18 13:53:56,908] Admin_14 - Step_37: Verify 'Address 2' textbox value is equals '356 Los Bancos'
+ [2023-04-18 13:53:56,982] Admin_14 - Step_38: Verify 'Zip / postal code' textbox value is equals '986589'
+ [2023-04-18 13:53:57,059] Admin_14 - Step_39: Verify 'Phone number' textbox value is equals '0987654666'
+ [2023-04-18 13:53:57,132] Admin_14 - Step_40: Verify 'Fax number' textbox value is equals '+84987654666'
+ [2023-04-18 13:53:57,194] Admin_14 - Step_41: Click to 'back to customer details' link
+ [2023-04-18 13:53:57,892] Admin_14 - Step_42: Verify 'First name' value is equals 'Edit Automation'
+ [2023-04-18 13:53:58,455] Admin_14 - Step_43: Verify 'Last name' value is equals 'Edit FC'
+ [2023-04-18 13:53:58,605] Admin_14 - Step_44: Verify 'Email' value is equals 'editautomationfc@gmail.com'
+ [2023-04-18 13:53:58,739] Admin_14 - Step_45: Verify 'Phone number' value is equals '0987654666'
+ [2023-04-18 13:53:58,831] Admin_14 - Step_46: Verify 'Fax number' value is equals '+84987654666'
+ [2023-04-18 13:53:58,925] Admin_14 - Step_47: Verify 'Address' value is equals 'Automation FC'
+ [2023-04-18 13:53:59,009] Admin_15 - Step_01: Click to 'Customers' in 'Customers' menu
+ [2023-04-18 13:54:00,696] Admin_15 - Step_02: Enter to 'Email' textbox with value is 'edit_automationfc34372@gmail.com'
+ [2023-04-18 13:54:01,813] Admin_15 - Step_03: Enter to 'Firstname' textbox with value is 'Edit Automation'
+ [2023-04-18 13:54:02,926] Admin_15 - Step_04: Enter to 'Lastname' textbox with value is 'Edit FC'
+ [2023-04-18 13:54:04,070] Admin_15 - Step_05: Select '2' in 'Month' dropdown
+ [2023-04-18 13:54:04,390] Admin_15 - Step_06: Select '2' in 'Day' dropdown
+ [2023-04-18 13:54:04,722] Admin_15 - Step_07: Enter to 'Company' textbox with value is 'Edit AutomationFC'
+ [2023-04-18 13:54:05,978] Admin_15 - Step_08: Clear item 'Registered' in 'Customer roles' dropdown
+ [2023-04-18 13:54:06,072] Admin_15 - Step_09: Select 'Guests' in 'Customer roles' dropdown
+ [2023-04-18 13:54:08,774] Admin_15 - Step_10: Click to 'Search' button
+ [2023-04-18 13:54:10,115] Admin_15 - Step_11: Click to 'Edit' button
+ [2023-04-18 13:54:11,883] Admin_15 - Step_12: Click to 'Delete' button
+ [2023-04-18 13:54:15,130] Admin_15 - Step_13: Accept to delete address info
+ [2023-04-18 13:54:15,167] Admin_15 - Step_14: Verify Address info is deleted
+ [2023-04-18 13:54:15,811] OS name = windows 11
+ [2023-04-18 13:54:15,811] Driver instance name = firefoxdriver: firefox on windows (a92e25da-10a3-4b59-9cf9-18b6862228ce)
